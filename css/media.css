@@ -1,0 +1,21 @@
+@media(min-width:320px)and (max-width:1220px) 
+{
+    .image>img{
+        height: 250px;
+    }
+}
+/*@media(min-width:360px)
+{
+    .image>img{
+        display: none;
+    }
+   
+    .Date{
+        width: 100%;
+        align-items: center;
+        margin-left: 72px;
+    }
+    .Date>p{
+text-align: justify;
+    }
+}
